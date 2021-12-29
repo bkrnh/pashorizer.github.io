@@ -48,12 +48,14 @@
 #listrow_status span[title^='Südpolarisierung ']:before {content: "SP |"; font-weight: bold; font-size: 10px;}
 #listrow_status span[title^='Westpolarisierung ']:before {content: "WP |"; font-weight: bold; font-size: 10px;}
 
-#listrow_status span[title^='Schokolade']:before {content: "☘ |"; font-weight: bold; font-size: 10px;}
+#listrow_status span[title^='weiße Schokolade']:before {content: "☘ |"; font-weight: bold; font-size: 10px;}
+#listrow_status span[title^='Birnenbrand']:before {content: "⛐ |"; font-weight: bold; font-size: 10px;}
 #listrow_status span[title^='Nebelschwaden']:before {content: "☁ |"; font-weight: bold; font-size: 10px;}
 #listrow_status span[title^='Pflanzensicht']:before {content: "⚘ |"; font-weight: bold; font-size: 10px;}
 #listrow_status span[title^='Seelensicht']:before {content: "⛯ |"; font-weight: bold; font-size: 10px;}
 #listrow_status span[title^='Rennen']:before {content: "☈ |"; font-weight: bold; font-size: 10px;}
 #listrow_status span[title^='Gewebemeister']:before {content: "⚚ |"; font-weight: bold; font-size: 10px;}
+#listrow_status span[title^='einzigartige NPC Sicht']:before {content: "⚯ |"; font-weight: bold; font-size: 10px;}
 
 #listrow_status span[title^='Goldduft']:before {content: "GD"; font-weight: bold; font-size: 10px;}
 #listrow_status span[title^='Trank der Waldpflanzensicht']:before {content: "PS"; font-weight: bold; font-size: 10px; }
